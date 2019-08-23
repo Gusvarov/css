@@ -1,0 +1,47 @@
+/** {
+    background-color: chartreuse;
+}*/
+
+h1 {
+    color: red;
+}
+
+p {
+    color:brown;
+}
+
+#chosen {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+div p {
+    border: 1px solid black;
+}
+
+p:hover {
+    background-color: aqua;
+}
+
+p::first-letter {
+    font-size: 2rem;
+}
+
+.container #hello {
+    color: green;
+}
+
+.container {
+    color: blue;
+}
+
+#hello {
+    color: red;
+}
+
+div > p {
+    color: black;
+}
